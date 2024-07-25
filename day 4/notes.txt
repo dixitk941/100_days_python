@@ -1,0 +1,101 @@
+As we played around with Flask to beef up our site security and got a taste of how Python works, I got pumped to dive deeper.  So, let’s start this journey from Python newbie to Python guru—bring on the coffee, late-night coding, and "kyun nahi chal raha yeh?!" moments! 🐍🚀
+
+                                                                   ---------------Python Basics-----------------
+1-> High Level Interpreted Language
+2-> Known for its readability , simpicity , Vercility
+
+                                                                  -----------------------Key Features------------------
+
+Easy to read and write
+Interpreated language
+dynamically typed
+object oriented
+high level language
+extensive standard library
+cross platform
+large ecosystem
+
+                                                                -----------------------Basic Syntax------------------
+                                                                
+------------variables
+1-> x=5            #Integer
+2-> y=3.5          #float
+3-> z="karan"      #String
+
+
+--------------Control flow
+
+if x>0 :
+      print("x is positive")
+else:
+     print("x is negative")
+     
+for i is in range(5);
+print(i)
+
+
+-----------------Function
+
+def greet(name) :
+        return f"hello,{name}!"
+print(greet("Karan"))
+
+
+-----------------Class And Object
+
+            
+class Person:
+           def __init__(self,name,age) :
+                               self.name=name
+                               self.age=age
+           def greet(self):
+                         return f"Hello,my name is{self.name} and i am {self.age} year old"
+                         
+                         person=person("Karan" , 19)
+                         print(person.greet())
+                         
+                         
+                         
+------------------------Modules And Packages
+
+#mymodule.py
+
+
+def add(x,y):
+            return a+b
+            
+           
+#main.py
+
+import mymodule
+print(mymodule.add(x,y)
+
+
+
+
+
+---------------------------File I/O
+
+#NOTE:->  PYTHON PROVIDES BUILD-IN FUNCTIONS TO READ AND WRITE TO FILES 
+
+
+with open ("example.txt","w") as file:
+                        file.write("hello , world!")
+                        
+with open ("example.txt","r") as file:
+                        content=file.read()
+                        print(content)
+                        
+                        
+                                                         --------------------end-------------------
+
+Day 4
+Sign-off
+Karan Dixit (dixitk941)
+
+day -5 task :-> loop,and advance python ,
+                       
+
+                         
+                                                  
+      
