@@ -67,7 +67,8 @@ Feel free to fork this repository and make your own contributions. Pull requests
 If you have any questions or suggestions, feel free to reach out to me:
 
 - LinkedIn: [Karan Dixit](https://www.linkedin.com/in/karan-dixit-7223a628a/)
-- Email: your.email@example.com
+- Email: work.dixitk941@gmail.com
+- Instagram:[Karan_dixit19](https://www.instagram.com/karan_dixit19/)
 
 ---
 
