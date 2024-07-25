@@ -96,4 +96,4 @@ Sign-off
 Karan Dixit (dixitk941)
 
 ## Day 5 Task:
-- Loop, and advanced Python
+- Loops, and Practice
