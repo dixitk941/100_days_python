@@ -2,9 +2,9 @@
 # 100 Days of Python 🇮🇳🐍
 
 ![Python](https://img.shields.io/badge/Python-100%20Days-blue)
-![GitHub last commit](https://img.shields.io/github/last-commit/dixitk941/100_days_python)
-![GitHub stars](https://img.shields.io/github/stars/dixitk941/100_days_python?style=social)
-![GitHub forks](https://img.shields.io/github/forks/dixitk941/100_days_python?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/dixitk941/python)
+![GitHub stars](https://img.shields.io/github/stars/dixitk941/python?style=social)
+![GitHub forks](https://img.shields.io/github/forks/dixitk941/python?style=social)
 
 Namaste! 🙏 Welcome to my journey of mastering Python in 100 days! This repository will be a comprehensive guide through my learning process, containing code, notes, and resources I find helpful.
 
@@ -50,11 +50,11 @@ Namaste! 🙏 Welcome to my journey of mastering Python in 100 days! This reposi
 
 1. Clone the repo:
    \```sh
-   git clone https://github.com/yourusername/100day-python.git
+   git clone https://github.com/dixitk941/python.git
    \```
 2. Navigate to the project directory:
    \```sh
-   cd 100day-python
+   cd python
    \```
 3. Follow along each day's progress and code along with the exercises.
 
@@ -76,5 +76,5 @@ Happy coding! Let's become Python gurus together! 🎉
 
 ---
 
-**Jai Shree RAM!**
+**Jai Shree RAM!** <br>
 **Jai Hind! 🇮🇳**
